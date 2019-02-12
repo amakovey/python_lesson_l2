@@ -1,0 +1,3 @@
+import when_deco_is_called
+
+print(when_deco_is_called.registry)
